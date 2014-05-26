@@ -1,5 +1,6 @@
 # IRA
-My collection of scientific programming snippets as IPython notebooks. If you dont want the run them locally, [view it via nbviewer](http://nbviewer.ipython.org/github/svaksha/ira/tree/master/pyscigrah/).
+My collection of scientific programming snippets as IPython notebooks. If you dont want to run them locally, [view it via nbviewer](http://nbviewer.ipython.org/github/svaksha/ira/tree/master/pyscigrah/). The [GitLab](https://gitlab.com/svaksha/ira) mirror.
+
 
 # LICENSE
 * COPYRIGHT © 2013-Now [SVAKSHA](http://svaksha.com/pages/Bio).

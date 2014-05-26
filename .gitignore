@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-# Author: @SVAKSHA, Fri 11 Oct 2013 07:02:18 AM IST
+#Author: @SVAKSHA, Fri 11 Oct 2013 07:02:18 AM IST
 """
 
 *.py[cod]
-*.ipynb_checkpoints
-*.pyc
 *~
 
 # C extensions
@@ -14,6 +12,9 @@
 # Packages
 *.egg
 *.egg-info
+*.ipynb_checkpoints
+*.pyc
+.installed.cfg
 dist
 build
 eggs
@@ -22,7 +23,6 @@ bin
 var
 sdist
 develop-eggs
-.installed.cfg
 lib
 lib64
 
@@ -40,16 +40,8 @@ nosetests.xml
 *.sqlite
 *.hg/
 
-
-# Heroku deploy
-# www/deploy
-datavis/*.py
-datavis/*.dat
-
-
 # Translations
 *.mo
-
 
 # OS generated files
 .DS_Store
@@ -65,4 +57,10 @@ Thumbs.db
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Heroku deploy
+# www/deploy
+pyscigrah/datasets/*.py
+pyscigrah/datasets/*.dat
+pyscigrah/datasets/*.~lock
 
