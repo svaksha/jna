@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
 #Author: @SVAKSHA, Fri 11 Oct 2013 07:02:18 AM IST
-"""
+#####################################################
 
 *.py[cod]
 *~
@@ -26,29 +25,39 @@ develop-eggs
 lib
 lib64
 
-# Installer logs
-pip-log.txt
 
 # Unit test / coverage reports
 .coverage
 .tox
 nosetests.xml
 
-# Logs, DVCS, Databases
-*.log
+#Databases/DB Ignore
+#==================
 *.sql
 *.sqlite
+
+#LOGS
+#=====
+*.log
+*error_log.txt
+#Installer logs
+pip-log.txt
+
+#DVCS
+#======
 *.hg/
 
 # Translations
 *.mo
 
-# OS generated files
+# OS generated junk files
+#=================
 .DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
+[Tt]humbs.db
 ehthumbs.db
 Thumbs.db
 
