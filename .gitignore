@@ -1,14 +1,15 @@
 # -*- coding: utf-8 -*-
+#####################################################
 #Author: @SVAKSHA, Fri 11 Oct 2013 07:02:18 AM IST
 #####################################################
 
-*.py[cod]
-*~
 
 # C extensions
+#=================
 *.so
 
 # Packages
+#=================
 *.egg
 *.egg-info
 *.ipynb_checkpoints
@@ -24,9 +25,12 @@ sdist
 develop-eggs
 lib
 lib64
+*.py[cod]
+*~
 
 
 # Unit test / coverage reports
+#=================
 .coverage
 .tox
 nosetests.xml
@@ -48,6 +52,7 @@ pip-log.txt
 *.hg/
 
 # Translations
+#=================
 *.mo
 
 # OS generated junk files
@@ -63,11 +68,13 @@ Thumbs.db
 
 
 # Mr Developer
+#=================
 .mr.developer.cfg
 .project
 .pydevproject
 
 # Heroku deploy
+#=================
 # www/deploy
 pyscigrah/datasets/*.py
 pyscigrah/datasets/*.dat
