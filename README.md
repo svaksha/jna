@@ -1,10 +1,9 @@
 # IRA
-My collection of scientific programming snippets as IPython notebooks and other training notes. If you dont want to pull them locally, [view it online via nbviewer](http://nbviewer.ipython.org/github/svaksha/ira/tree/master/pyscigrah/). 
+My collection of scientific programming snippets as IPython notebooks and other training notes. If you dont want to pull them locally, [view it online via nbviewer](http://nbviewer.ipython.org/github/zenso/ira/tree/master/ari/). 
 
 ##### Mirrors
-* [GitLab](https://gitlab.com/svaksha/ira):: git clone git@gitlab.com:svaksha/ira.git
-* [Cloudhost](https://git.cloudhost.io/svaksha/ira):: git clone git@git.cloudhost.io:svaksha/ira.git
-
+* [GitLab](https://gitlab.com/zenso/ira):: git clone git@gitlab.com:zenso/ira.git
+* [Cloudhost](https://git.cloudhost.io/zenso/ira):: git clone git@git.cloudhost.io:zenso/ira.git
 
 # LICENSE
 * COPYRIGHT © 2013-Now [SVAKSHA](http://svaksha.com/pages/Bio).

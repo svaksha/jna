@@ -73,10 +73,18 @@ Thumbs.db
 .project
 .pydevproject
 
+# GENERAL
+#===================
+doceo/
+Questions/
+scripts/
+www/
+
+
 # Heroku deploy
 #=================
 # www/deploy
-pyscigrah/datasets/*.py
-pyscigrah/datasets/*.dat
-pyscigrah/datasets/*.~lock
+ari/datasets/*.py
+ari/datasets/*.dat
+ari/datasets/*.~lock
 
