@@ -4,6 +4,12 @@
 #####################################################
 
 
+#====================================================
+# IPYTHON Notebooks
+#====================================================
+*.ipynb_checkpoints/*
+ira.ipynb
+
 # C extensions
 #=================
 *.so
@@ -50,6 +56,7 @@ pip-log.txt
 #DVCS
 #======
 *.hg/
+.hgignore
 
 # Translations
 #=================
@@ -87,4 +94,5 @@ www/
 ari/datasets/*.py
 ari/datasets/*.dat
 ari/datasets/*.~lock
+ari/
 
