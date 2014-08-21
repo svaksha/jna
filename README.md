@@ -1,5 +1,5 @@
 # IRA
-My collection of scientific programming snippets as IPython notebooks and other notes. View them online via [nbviewer](http://nbviewer.ipython.org/github/svaksh/ira/blob/master/README.md). 
+My collection of scientific programming snippets as IPython notebooks and other notes. View them online via [nbviewer](http://nbviewer.ipython.org/github/svaksh/ira/). 
 
 ## NoteBook list
 - Dataviz
