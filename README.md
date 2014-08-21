@@ -1,9 +1,13 @@
 # IRA
-My collection of scientific programming snippets as IPython notebooks and other training notes. View them online via [nbviewer](http://nbviewer.ipython.org/github/svaksh/ira/blob/master/README.md). 
+My collection of scientific programming snippets as IPython notebooks and other notes. View them online via [nbviewer](http://nbviewer.ipython.org/github/svaksh/ira/blob/master/README.md). 
 
-### NoteBook list
-- [Dataviz](https://github.com/svaksh/ira/tree/master/2014-dataviz/readme.md)
-- [Transcriptome](https://github.com/svaksh/ira/tree/master/2014-transcriptome/readme.md)
+## NoteBook list
+- Dataviz
+   - [Introduction](http://nbviewer.ipython.org/github/svaksh/ira/blob/master/2014-dataviz/01_DV_IML_intro.ipynb)
+   - [EOL lifecycle](http://nbviewer.ipython.org/github/svaksh/ira/blob/master/2014-dataviz/02_DV_EOL_lifecycle.ipynb)
+   - [EOL plots](http://nbviewer.ipython.org/github/svaksh/ira/blob/master/2014-dataviz/03_DV_EOL_plots.ipynb)
+- Transcriptome
+   - [Transcription Introduction](http://nbviewer.ipython.org/github/svaksh/ira/blob/master/2014-transcriptome/01_transcriptome_intro.ipynb)
 
 
 # LICENSE
