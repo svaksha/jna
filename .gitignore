@@ -90,7 +90,6 @@ www/
 
 # Heroku deploy
 #=================
-# www/deploy
 ari/datasets/*.py
 ari/datasets/*.dat
 ari/datasets/*.~lock
