@@ -15,6 +15,4 @@ My collection of scientific programming snippets as IPython notebooks and other 
 
 ### Mirrors
 - [GitLab](https://gitlab.com/svaksh/ira):: git clone git@gitlab.com:svaksh/ira.git
-- [Cloudhost](https://git.cloudhost.io/svaksh/ira):: git clone git@git.cloudhost.io:svaksh/ira.git
-
-
+- [Devlabs](https://gitlab.devlabs.linuxassist.net/svaksh/ira):: ssh://git@gitlab.devlabs.linuxassist.net:608/svaksh/ira.git
