@@ -1,97 +1,10 @@
 # -*- coding: utf-8 -*-
 #####################################################
-#Author: @SVAKSHA, Fri 11 Oct 2013 07:02:18 AM IST
+#Author: @SVAKSHA, 2013/Oct/11 07:02:18 AM IST
 #####################################################
-
-
-#====================================================
-# IPYTHON Notebooks
-#====================================================
-*.ipynb_checkpoints/*
-ira.ipynb
-
-# C extensions
-#=================
-*.so
-
-# Packages
-#=================
-*.egg
-*.egg-info
-*.ipynb_checkpoints
-*.pyc
-.installed.cfg
-dist
-build
-eggs
-parts
-bin
-var
-sdist
-develop-eggs
-lib
-lib64
-*.py[cod]
-*~
-
-
-# Unit test / coverage reports
-#=================
-.coverage
-.tox
-nosetests.xml
-
-#Databases/DB Ignore
-#==================
-*.sql
-*.sqlite
-
-#LOGS
-#=====
-*.log
-*error_log.txt
-#Installer logs
-pip-log.txt
-
-#DVCS
-#======
-*.hg/
-.hgignore
-
-# Translations
-#=================
-*.mo
-
-# OS generated junk files
-#=================
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-[Tt]humbs.db
-ehthumbs.db
-Thumbs.db
-
-
-# Mr Developer
-#=================
-.mr.developer.cfg
-.project
-.pydevproject
 
 # GENERAL
 #===================
-doceo/
-Questions/
-scripts/
-www/
+*/pvt/
 
-
-# Heroku deploy
-#=================
-ari/datasets/*.py
-ari/datasets/*.dat
-ari/datasets/*.~lock
-ari/
 
