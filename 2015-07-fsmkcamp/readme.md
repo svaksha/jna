@@ -1,7 +1,8 @@
-# IRA
+# 2015-07-fsmkcamp
 
-My talk presentation slides for the FSMK-Camp-2015 as Jupyter notebooks. View them online via the [Index](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2015-fsmk-camp/00_index.ipynb) page containing links to the rest of the talk presentation.
+The talk presentation slides for the FSMK-Camp-2015 as Jupyter notebooks - start viewing them from the [Index](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2015-07-fsmkcamp/00_index.ipynb) page which has an outline and links to the rest of the talk presentation.
 
+----
 
 # LICENSE
 
