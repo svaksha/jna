@@ -1,11 +1,10 @@
 # IRA
 
-My presentations, talks, slides and programming snippets collection as Jupyter notebooks. View them online via [nbviewer](http://nbviewer.ipython.org/github/svaksha/ira/). 
-
+My presentations, talks, slides and programming snippets collection as Jupyter notebooks. 
 
 ## Index
 
-The Jupyter notebooks used in my talks with the presentation content material is listed below:
+The Jupyter notebooks used in my talks with the presentation content material is listed below - view them online via [nbviewer](http://nbviewer.ipython.org/github/svaksha/ira/). 
 
 + 2015-07-fsmkcamp
    + [Index](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2015-07-fsmkcamp/00_index.ipynb) page containing links to the rest of the talk presentation.

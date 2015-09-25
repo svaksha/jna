@@ -6,7 +6,8 @@
 
 # Whitelist the folder && Recursively whitelist its contents
 # ----------------------------------------------------------
-#!ari/**
+!ari/**
+!2014-08-transcriptome
 
 # GENERAL
 #-------------------------
