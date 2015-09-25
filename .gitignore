@@ -6,13 +6,12 @@
 
 # Whitelist the folder && Recursively whitelist its contents
 # ----------------------------------------------------------
-!ira/**
-!2015-*/**
+#!ari/**
 
 # GENERAL
 #-------------------------
 .ipynb_checkpoints/
-*/pvt/
+/private
 */PRIVATE/*
 
 # Snazzy presentations
