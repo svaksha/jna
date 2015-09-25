@@ -7,7 +7,7 @@ My presentations, talks, slides and programming snippets collection as Jupyter n
 The Jupyter notebooks used in my talks with the presentation content material is listed below - view them online via [nbviewer](http://nbviewer.ipython.org/github/svaksha/ira/). 
 
 + 2015-07-fsmkcamp
-   + [Index](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2015-07-fsmkcamp/00_index.ipynb) page containing links to the rest of the talk presentation.
+   + The [index](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2015-07-fsmkcamp/00_index.ipynb) page containing links to the rest of the talk presentation.
 + 2014-05-dataviz
    + [Introduction](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2014-05-dataviz/01_DV_IML_intro.ipynb)
    + [EOL lifecycle](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2014-05-dataviz/02_DV_EOL_lifecycle.ipynb)
