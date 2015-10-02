@@ -4,19 +4,10 @@
 #####################################################
 
 
-# Whitelist the folder && Recursively whitelist its contents
-# ----------------------------------------------------------
-!ari/**
-!2014-08-transcriptome/**
-!2015-07-fsmkcamp/**
-
 # GENERAL
 #-------------------------
 .ipynb_checkpoints/
 /private
-*/PRIVATE/*
+private-2016-07-gotocon/
 
-# Snazzy presentations
-#-------------------------
-reveal.js/*
 
