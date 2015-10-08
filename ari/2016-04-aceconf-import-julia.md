@@ -15,7 +15,9 @@
 ----
 
 # Proposal 
+
 #### Event :: Aceconf-2016
+
 #### Title :: `import julia`
 + __Author(s)__:: SVAKSHA
 + __Contact__  :: svaksha-AT-gmail-DOT-com
@@ -61,8 +63,9 @@ My talk will use Jupyter notebooks for the presentation and being released under
 # Biography
 {{*Anything else you'd like the program committee to know when making their selection: your past speaking experience, open source community experience, etc.*}}
 
-[SVAKSHA](http://svaksha.com/pages/Bio) is a Foss contributor who has spoken at coding camps and technical conferences like [Pycon-CA](http://2012.pycon.ca/talk/29). Her [Bootstrapping your Foss journey with Julia](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2015-07-fsmkcamp/00_index.ipynb) talk at FSMK-Camp was very well received and rated as "worth it / [higher standard](http://harikavreddy.blogspot.in/2015/07/i-always-wanted-my-holidays-to-be.html)" by the student attendees. 
-The Jupyter notebooks and slide materials used in her talks and presentations (including conference proposals) have been released under the AGPL/CC licenses in the [IRA](http://svaksha.github.io/ira) repo on github.
+[SVAKSHA](http://svaksha.com/pages/Bio) is a Foss contributor who has spoken at coding camps and technical conferences like [Pycon-CA](http://2012.pycon.ca/talk/29). Recently, her [Bootstrapping your Foss journey with Julia](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2015-07-fsmkcamp/00_index.ipynb) talk at FSMK-Camp was very well received and rated as "worth it / [higher standard](http://harikavreddy.blogspot.in/2015/07/i-always-wanted-my-holidays-to-be.html)" by the student attendees. 
+
+Here is the full list of her [publications and technical talks](http://svaksha.com/pages/Publications) presented at conferences. The Jupyter notebooks and slide materials used in her talks and presentations (including conference proposals) have been released under the AGPL/CC licenses in the [IRA](http://svaksha.github.io/ira) repo on github.
 
 ----
 
