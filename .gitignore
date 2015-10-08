@@ -6,8 +6,9 @@
 
 # GENERAL
 #-------------------------
-.ipynb_checkpoints/
-/private
-private-2016-07-gotocon/
 
+.ipynb_checkpoints/
+.hg/
+/PRIVATE/*
+/PRIVATE-*/
 
