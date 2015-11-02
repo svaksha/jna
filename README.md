@@ -8,7 +8,6 @@ The Jupyter notebooks used in my talks with the presentation content material is
 + 2015-07-fsmkcamp :: The [index](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2015-07-fsmkcamp/00_index.ipynb) page contains links to the rest of the talk presentation.
 + 2014-05-dataviz :: Introduction to [data visualization](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2014-05-dataviz/01_DV_IML_intro.ipynb).
 + 2014-08-transcriptome :: [Transcription Introduction](http://nbviewer.ipython.org/github/svaksha/ira/blob/master/2014-08-transcriptome/01_transcriptome_intro.ipynb)
-+ ari :: Contains a list of my talk proposals.
 
 ----
 
