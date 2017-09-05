@@ -1,6 +1,6 @@
 # JNA
 
-My presentations and slides for tutorials, workshops, talks, and programming snippets collection as Jupyter notebooks. 
+My conference presentations, slides for tutorials, workshops, talks and programming snippets collection as Jupyter notebooks. 
 
 ## Index
 The Jupyter notebooks used in my talks with the presentation content material is available in the folders listed below - view them online via [nbviewer](http://nbviewer.ipython.org/github/svaksha/jna/). 
